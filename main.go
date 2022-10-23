@@ -12,5 +12,7 @@ func main() {
 	hash := make(map[int]int, 0)
 	hash[1] = 1
 	fmt.Println(hash)
-
+	fmt.Println("debug-lhc")
+	fmt.Println("debug-lhc-amend")
+	fmt.Println("debug-lhc-amend-v1")
 }
