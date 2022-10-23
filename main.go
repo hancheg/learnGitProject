@@ -13,4 +13,6 @@ func main() {
 	hash[1] = 1
 	fmt.Println(hash)
 	fmt.Println("debug-lhc-v2")
+	fmt.Println("debug-lhc-v3")
+	fmt.Println("debug-lhc-v4")
 }
