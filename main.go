@@ -13,4 +13,5 @@ func main() {
 	hash[1] = 1
 	fmt.Println(hash)
 	fmt.Println("amend-v6")
+	fmt.Println("amend-v7")
 }
